@@ -105,7 +105,7 @@ This SDK adheres to [semantic versioning](https://semver.org).
 
 ## Security Disclosure
 
-If you believe you have identified a security vulnerability with FORCEN, you should report it as soon as possible via email to support@blockv.io. Please do not post it to a public issue tracker.
+If you believe you have identified a security vulnerability with FORCEN, you should report it as soon as possible via email to support@forcen.io. Please do not post it to a public issue tracker.
 
 ## Author
 
