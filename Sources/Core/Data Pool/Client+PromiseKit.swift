@@ -1,5 +1,5 @@
 //
-//  BLOCKv AG. Copyright (c) 2018, all rights reserved.
+//  BLOCKv AG. Copyright (c) 2020, all rights reserved.
 //
 //  Licensed under the BLOCKv SDK License (the "License"); you may not use this file or
 //  the BLOCKv SDK except in compliance with the License accompanying it. Unless
@@ -92,3 +92,4 @@ internal extension Client {
     }
 
 }
+
